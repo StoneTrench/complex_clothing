@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "minecraft:wool"
+    },
+    {
+      "item": "minecraft:paper"
+    },
+    {
+      "tag": "minecraft:wool_carpets"
+    }
+  ],
+  "result": {
+    "item": "complex_clothing:pattern_shoulders"
+  },
+  "group": "clothing_pattern"
+}

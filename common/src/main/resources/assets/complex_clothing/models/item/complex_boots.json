@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "complex_clothing:item/complex_boots"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "itemGroup.complex_clothing.item_group": "Complex Clothing",
+
+  "item.complex_clothing.complex_helmet": "Hat",
+  "item.complex_clothing.complex_chestplate": "Shirt",
+  "item.complex_clothing.complex_leggings": "Pants",
+  "item.complex_clothing.complex_boots": "Shoes",
+
+  "item.complex_clothing.pattern_buttons": "Clothing Pattern",
+  "item.complex_clothing.pattern_nose": "Clothing Pattern",
+  "item.complex_clothing.pattern_shoulders": "Clothing Pattern",
+  "item.complex_clothing.pattern_outline": "Clothing Pattern",
+  "item.complex_clothing.pattern_rim": "Clothing Pattern",
+
+  "item.complex_clothing.pattern_buttons.desc": "Buttons",
+  "item.complex_clothing.pattern_nose.desc": "Nose",
+  "item.complex_clothing.pattern_shoulders.desc": "Shoulders",
+  "item.complex_clothing.pattern_outline.desc": "Outline",
+  "item.complex_clothing.pattern_rim.desc": "Rim",
+
+  "tooltip.complex_clothing.patterns.base": "Base",
+  "tooltip.complex_clothing.patterns.buttons": "Buttons",
+  "tooltip.complex_clothing.patterns.nose": "Nose",
+  "tooltip.complex_clothing.patterns.shoulders": "Shoulders",
+  "tooltip.complex_clothing.patterns.outline": "Outline",
+  "tooltip.complex_clothing.patterns.rim": "Rim"
+}

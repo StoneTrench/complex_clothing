@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "minecraft:wool"
+    },
+    {
+      "item": "minecraft:paper"
+    },
+    {
+      "tag": "minecraft:wooden_buttons"
+    }
+  ],
+  "result": {
+    "item": "complex_clothing:pattern_buttons"
+  },
+  "group": "clothing_pattern"
+}

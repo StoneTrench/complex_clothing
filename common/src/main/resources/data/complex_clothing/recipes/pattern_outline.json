@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "minecraft:wool"
+    },
+    {
+      "item": "minecraft:paper"
+    },
+    {
+      "tag": "complex_clothing:glass_panes"
+    }
+  ],
+  "result": {
+    "item": "complex_clothing:pattern_outline"
+  },
+  "group": "clothing_pattern"
+}

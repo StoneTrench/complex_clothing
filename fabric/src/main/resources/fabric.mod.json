@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "id": "complex_clothing",
+  "version": "${version}",
+
+  "name": "complex_clothing",
+  "description": "",
+  "authors": [],
+  "contact": {},
+
+  "license": "GNU GPL 3.0",
+  "icon": "icon.png",
+
+  "environment": "*",
+  "entrypoints": {},
+  "mixins": [
+    "complex_clothing.mixins.json",
+    "complex_clothing-common.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.14.17",
+    "minecraft": ">=1.18.2"
+  }
+}
